@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poojakul\\Documents\\Training24\\assignment3\\customerdetails\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF303F25-DD69-4FD0-BC10-F2F613EB80D6}|customerdetails\\customerdetails.csproj|c:\\users\\poojakul\\documents\\training24\\assignment3\\customerdetails\\customerdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF303F25-DD69-4FD0-BC10-F2F613EB80D6}|customerdetails\\customerdetails.csproj|solutionrelative:customerdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poojakul\\Documents\\Training24\\assignment3\\customerdetails\\customerdetails\\Program.cs",
+              "RelativeDocumentMoniker": "customerdetails\\Program.cs",
+              "ToolTip": "C:\\Users\\poojakul\\Documents\\Training24\\assignment3\\customerdetails\\customerdetails\\Program.cs",
+              "RelativeToolTip": "customerdetails\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwEsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:50:26.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

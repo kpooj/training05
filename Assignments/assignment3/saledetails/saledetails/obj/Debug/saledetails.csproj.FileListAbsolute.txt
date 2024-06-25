@@ -1,0 +1,7 @@
+C:\Users\poojakul\Documents\Training24\assignment3\saledetails\saledetails\bin\Debug\saledetails.exe.config
+C:\Users\poojakul\Documents\Training24\assignment3\saledetails\saledetails\bin\Debug\saledetails.exe
+C:\Users\poojakul\Documents\Training24\assignment3\saledetails\saledetails\bin\Debug\saledetails.pdb
+C:\Users\poojakul\Documents\Training24\assignment3\saledetails\saledetails\obj\Debug\saledetails.csproj.AssemblyReference.cache
+C:\Users\poojakul\Documents\Training24\assignment3\saledetails\saledetails\obj\Debug\saledetails.csproj.CoreCompileInputs.cache
+C:\Users\poojakul\Documents\Training24\assignment3\saledetails\saledetails\obj\Debug\saledetails.exe
+C:\Users\poojakul\Documents\Training24\assignment3\saledetails\saledetails\obj\Debug\saledetails.pdb

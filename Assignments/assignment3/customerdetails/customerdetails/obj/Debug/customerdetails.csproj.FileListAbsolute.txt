@@ -1,0 +1,7 @@
+C:\Users\poojakul\Documents\Training24\assignment3\customerdetails\customerdetails\bin\Debug\customerdetails.exe.config
+C:\Users\poojakul\Documents\Training24\assignment3\customerdetails\customerdetails\bin\Debug\customerdetails.exe
+C:\Users\poojakul\Documents\Training24\assignment3\customerdetails\customerdetails\bin\Debug\customerdetails.pdb
+C:\Users\poojakul\Documents\Training24\assignment3\customerdetails\customerdetails\obj\Debug\customerdetails.csproj.AssemblyReference.cache
+C:\Users\poojakul\Documents\Training24\assignment3\customerdetails\customerdetails\obj\Debug\customerdetails.csproj.CoreCompileInputs.cache
+C:\Users\poojakul\Documents\Training24\assignment3\customerdetails\customerdetails\obj\Debug\customerdetails.exe
+C:\Users\poojakul\Documents\Training24\assignment3\customerdetails\customerdetails\obj\Debug\customerdetails.pdb

@@ -1,0 +1,7 @@
+C:\Users\poojakul\Documents\Training24\assignment3\accounts\accounts\bin\Debug\accounts.exe.config
+C:\Users\poojakul\Documents\Training24\assignment3\accounts\accounts\bin\Debug\accounts.exe
+C:\Users\poojakul\Documents\Training24\assignment3\accounts\accounts\bin\Debug\accounts.pdb
+C:\Users\poojakul\Documents\Training24\assignment3\accounts\accounts\obj\Debug\accounts.csproj.AssemblyReference.cache
+C:\Users\poojakul\Documents\Training24\assignment3\accounts\accounts\obj\Debug\accounts.csproj.CoreCompileInputs.cache
+C:\Users\poojakul\Documents\Training24\assignment3\accounts\accounts\obj\Debug\accounts.exe
+C:\Users\poojakul\Documents\Training24\assignment3\accounts\accounts\obj\Debug\accounts.pdb

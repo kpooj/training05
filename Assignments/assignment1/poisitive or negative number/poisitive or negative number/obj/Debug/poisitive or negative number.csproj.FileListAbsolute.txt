@@ -1,0 +1,7 @@
+C:\Users\poojakul\Documents\Traning\C#\poisitive or negative number\poisitive or negative number\bin\Debug\poisitive or negative number.exe.config
+C:\Users\poojakul\Documents\Traning\C#\poisitive or negative number\poisitive or negative number\bin\Debug\poisitive or negative number.exe
+C:\Users\poojakul\Documents\Traning\C#\poisitive or negative number\poisitive or negative number\bin\Debug\poisitive or negative number.pdb
+C:\Users\poojakul\Documents\Traning\C#\poisitive or negative number\poisitive or negative number\obj\Debug\poisitive or negative number.csproj.AssemblyReference.cache
+C:\Users\poojakul\Documents\Traning\C#\poisitive or negative number\poisitive or negative number\obj\Debug\poisitive or negative number.csproj.CoreCompileInputs.cache
+C:\Users\poojakul\Documents\Traning\C#\poisitive or negative number\poisitive or negative number\obj\Debug\poisitive or negative number.exe
+C:\Users\poojakul\Documents\Traning\C#\poisitive or negative number\poisitive or negative number\obj\Debug\poisitive or negative number.pdb
