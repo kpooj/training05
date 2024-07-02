@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharp\\Assignments\\Assignment5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFBC2E5-ED2D-4E38-A2EB-DBC78E506482}|Assignment5\\Assignment5.csproj|c:\\csharp\\assignments\\assignment5\\assignment5\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFBC2E5-ED2D-4E38-A2EB-DBC78E506482}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFBC2E5-ED2D-4E38-A2EB-DBC78E506482}|Assignment5\\Assignment5.csproj|c:\\csharp\\assignments\\assignment5\\assignment5\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFBC2E5-ED2D-4E38-A2EB-DBC78E506482}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFBC2E5-ED2D-4E38-A2EB-DBC78E506482}|Assignment5\\Assignment5.csproj|c:\\csharp\\assignments\\assignment5\\assignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFBC2E5-ED2D-4E38-A2EB-DBC78E506482}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFBC2E5-ED2D-4E38-A2EB-DBC78E506482}|Assignment5\\Assignment5.csproj|C:\\CSharp\\Assignments\\Assignment5\\assignment5\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFBC2E5-ED2D-4E38-A2EB-DBC78E506482}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\CSharp\\Assignments\\Assignment5\\Assignment5\\IStudent.cs",
+              "RelativeDocumentMoniker": "Assignment5\\IStudent.cs",
+              "ToolTip": "C:\\CSharp\\Assignments\\Assignment5\\Assignment5\\IStudent.cs",
+              "RelativeToolTip": "Assignment5\\IStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:23:59.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\CSharp\\Assignments\\Assignment5\\Assignment5\\Employee.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Employee.cs",
+              "ToolTip": "C:\\CSharp\\Assignments\\Assignment5\\Assignment5\\Employee.cs",
+              "RelativeToolTip": "Assignment5\\Employee.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwCYAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:17:32.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\CSharp\\Assignments\\Assignment5\\Assignment5\\Box.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Box.cs",
+              "ToolTip": "C:\\CSharp\\Assignments\\Assignment5\\Assignment5\\Box.cs",
+              "RelativeToolTip": "Assignment5\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T05:09:22.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharp\\Assignments\\Assignment5\\Assignment5\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Program.cs",
+              "ToolTip": "C:\\CSharp\\Assignments\\Assignment5\\Assignment5\\Program.cs",
+              "RelativeToolTip": "Assignment5\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowD0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:09:09.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
